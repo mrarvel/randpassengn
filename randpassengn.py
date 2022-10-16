@@ -9,7 +9,7 @@ _  /   / /_/ /_  / / / /_/ / __  /_/ / /_/ /_(__  )_(__  )/  __/  / / /  /_/ /_ 
 /_/    \__,_/ /_/ /_/\__,_/  _  .___/\__,_/ /____/ /____/ \___//_/ /_/_\__, / /_/ /_/ 
                              /_/                                      /____/          
         """)
-print("written by @atahabaki")
+print("written by @tenebrismustdie")
 charLen = int(input("Passwd length: "));
 for i in range(charLen):
     pswd += chr(random.randint(33,126))
